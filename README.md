@@ -14,7 +14,7 @@
   <img align="center" alt="Rony-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rony-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Roni-pic" height="150" style="border-radius:50px;"
-  src="https://picrew.me/image_maker/197705/complete?cd=TjF1lRYee9">
+  src="https://www.instagram.com/p/Ca54VjuuqkI/">
 </div>
  
  
