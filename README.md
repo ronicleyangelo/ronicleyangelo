@@ -1,7 +1,7 @@
 ### Olá sou o Ronicley Angelo👋
 - 🌱 Apredenndo HTML e CSS 
 - 😄 Pronomes: ele/ela
--  Cursando Python0 -DNC Group
+-  Cursando Python0 - DNC Group
 
 <div align="center">
   <a href="https://github.com/ronicleyangelo">
