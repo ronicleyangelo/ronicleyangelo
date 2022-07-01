@@ -1,6 +1,6 @@
 ### Olá sou o Ronicley Angelo👋
 -  Evoluindo em **HTML** | **CSS** | **JavaScript**
--  Cursando **Python0** - *DNC Group*
+-  Introdução do **Python0** - *DNC Group*
 
 <div align="center">
   <a href="https://github.com/ronicleyangelo">
