@@ -1,5 +1,5 @@
 ### Olá sou o Ronicley Angelo👋
-- 🌱 Apredenndo HTML e CSS 
+-  Evoluindo em **HTML** | **CSS** | **JavaScript**
 -  Cursando Python0 - DNC Group
 
 <div align="center">
