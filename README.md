@@ -10,8 +10,7 @@
  <img align="center" alt="Rony-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rony-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rony-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Roni-pic" height="150" style="border-radius:50px;"
-  src="https://media.discordapp.net/attachments/754782195670974516/951287613514448896/Roni-pic.png?width=586&height=586">
+  <img align="right" alt="Roni-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/754782195670974516/951287613514448896/Roni-pic.png?width=586&height=586">
 </div>
  
  
